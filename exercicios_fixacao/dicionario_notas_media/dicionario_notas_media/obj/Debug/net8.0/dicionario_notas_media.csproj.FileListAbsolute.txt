@@ -1,0 +1,14 @@
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\bin\Debug\net8.0\dicionario_notas_media.exe
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\bin\Debug\net8.0\dicionario_notas_media.deps.json
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\bin\Debug\net8.0\dicionario_notas_media.runtimeconfig.json
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\bin\Debug\net8.0\dicionario_notas_media.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\bin\Debug\net8.0\dicionario_notas_media.pdb
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\dicionario_notas_media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\dicionario_notas_media.AssemblyInfoInputs.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\dicionario_notas_media.AssemblyInfo.cs
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\dicionario_notas_media.csproj.CoreCompileInputs.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\dicionario_notas_media.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\refint\dicionario_notas_media.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\dicionario_notas_media.pdb
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\dicionario_notas_media.genruntimeconfig.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\dicionario_notas_media\dicionario_notas_media\obj\Debug\net8.0\ref\dicionario_notas_media.dll

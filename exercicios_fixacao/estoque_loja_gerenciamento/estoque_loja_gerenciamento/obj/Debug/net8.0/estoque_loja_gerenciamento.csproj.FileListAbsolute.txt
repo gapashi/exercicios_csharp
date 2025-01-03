@@ -1,0 +1,14 @@
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\bin\Debug\net8.0\estoque_loja_gerenciamento.exe
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\bin\Debug\net8.0\estoque_loja_gerenciamento.deps.json
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\bin\Debug\net8.0\estoque_loja_gerenciamento.runtimeconfig.json
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\bin\Debug\net8.0\estoque_loja_gerenciamento.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\bin\Debug\net8.0\estoque_loja_gerenciamento.pdb
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\estoque_loja_gerenciamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\estoque_loja_gerenciamento.AssemblyInfoInputs.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\estoque_loja_gerenciamento.AssemblyInfo.cs
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\estoque_loja_gerenciamento.csproj.CoreCompileInputs.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\estoque_loja_gerenciamento.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\refint\estoque_loja_gerenciamento.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\estoque_loja_gerenciamento.pdb
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\estoque_loja_gerenciamento.genruntimeconfig.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\estoque_loja_gerenciamento\estoque_loja_gerenciamento\obj\Debug\net8.0\ref\estoque_loja_gerenciamento.dll

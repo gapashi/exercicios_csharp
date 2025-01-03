@@ -1,0 +1,14 @@
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\bin\Debug\net8.0\sistema_login.exe
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\bin\Debug\net8.0\sistema_login.deps.json
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\bin\Debug\net8.0\sistema_login.runtimeconfig.json
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\bin\Debug\net8.0\sistema_login.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\bin\Debug\net8.0\sistema_login.pdb
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\sistema_login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\sistema_login.AssemblyInfoInputs.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\sistema_login.AssemblyInfo.cs
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\sistema_login.csproj.CoreCompileInputs.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\sistema_login.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\refint\sistema_login.dll
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\sistema_login.pdb
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\sistema_login.genruntimeconfig.cache
+C:\Users\ti_02\Desktop\estudos_c#\exercicios_fixacao\sistema_login\sistema_login\obj\Debug\net8.0\ref\sistema_login.dll
